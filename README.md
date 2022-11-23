@@ -19,5 +19,9 @@ TOPICS
 > 小説作品：novels.png  
 > イラスト作品：illusts.png
 
+## 生徒・教員
+> 名前/苗字イニシャル.png
+> KouA.png
+
 ## 広告
 > (広告番号)：ad_(広告番号).png
