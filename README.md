@@ -20,7 +20,7 @@ TOPICS
 > イラスト作品：illusts.png
 
 ## 生徒・教員
-> 名前/苗字イニシャル.png
+> 名前/苗字イニシャル.png  
 > KouA.png
 
 ## 広告
